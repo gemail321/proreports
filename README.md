@@ -1,8 +1,9 @@
 # proreports
 Simple Reporting System
-(@)# System  : Simple Reporting System -  ProReports Community Edition 
-(@)# Date    : 2013-05-07 
-(@)# Author  : Grzegorz Makowski - makowski.grzegorz@gmail.com
+
+(@) System  : Simple Reporting System -  ProReports Community Edition 
+(@) Date    : 2013-05-07 
+(@) Author  : Grzegorz Makowski - makowski.grzegorz@gmail.com
  
 
 System ProReports is available as freeware.
