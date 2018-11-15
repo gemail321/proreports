@@ -5,7 +5,6 @@ Simple Reporting System
 (@) Date    : 2013-05-07 
 (@) Author  : Grzegorz Makowski - makowski.grzegorz@gmail.com
  
-
 System ProReports is available as freeware.
 This means that the system can be used for private and professional 
 purposes without incurring license fees. 
